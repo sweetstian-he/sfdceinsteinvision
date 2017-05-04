@@ -1,2 +1,2 @@
 # sfdceinsteinvision
-Salesforce Einstein Vision Image Recognition
+Salesforce Einstein Vision Image Recognition Test
